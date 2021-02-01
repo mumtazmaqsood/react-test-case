@@ -10,7 +10,7 @@ script:
 deploy:
   provider: surge
   skip_cleanup: true
-  domain: my-tdd.surge.sh
+  domain: rough-hospital.surge.sh
   project: ./build/
 
 
